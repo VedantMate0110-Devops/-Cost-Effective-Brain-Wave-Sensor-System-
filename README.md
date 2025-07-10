@@ -1,5 +1,7 @@
 # 🧠 Cost-Effective Brain-Wave Sensor System
 
+> A patented low-cost brain-sensor system that uses real-time EEG signals and deep learning to control robotic arms via brain commands.
+
 A low-cost, accurate Brain-Computer Interface (BCI) system designed to collect and classify real-time Motor Imagery EEG signals and control robotic systems like a 4-axis robotic arm using deep learning and IoT.
 
 ---
@@ -7,7 +9,8 @@ A low-cost, accurate Brain-Computer Interface (BCI) system designed to collect a
 ## 📜 Patent Information
 
 - **Title**: A Cost-Effective Brain-Wave Sensor System for Collecting Real-Time Motor Imagery Electroencephalogram (EEG) Data
-- **Applicant**: Symbiosis International (Deemed University)
+- **Filed By**: Symbiosis International (Deemed University)
+- **Inventors**: Vedant Mate, Nandakumar
 - **Filed On**: June 5, 2024
 - **Published**: August 2024
 - **Technology Domains**: Brain-Computer Interface (BCI), Robotics, Embedded Systems, IoT, Signal Processing, Deep Learning
@@ -120,8 +123,8 @@ This repository is for academic and research use only. Contact the inventors for
 
 ## 🙌 Authors & Credits
 
-Developed under **Symbiosis International (Deemed University)**  
-Filed by: *Dr. Anand Shindikar* and team  
+Filed by **Symbiosis International (Deemed University)**  
+Invented by: **Vedant Mate** and **Nandakumar**  
 Open hardware and software tools chosen to promote low-cost BCI development
 
 ---
